@@ -1,20 +1,20 @@
 # 👋 Hi, I'm Kaynfchamal
 
----
-
 ## 💼 About Me
-I'm learning **GitHub** and *Markdown* step by step.
-
----
+I'm currently learning how to use **Git** and **GitHub**.
+I like learning step by step and practicing every day.
 
 ## 🛠 Skills
-- HTML / CSS
-- GitHub basics
+- HTML / CSS (basic)
+- Git & GitHub
 - Markdown
 
----
+## 📘 What I'm Learning
+- How repositories work
+- How to write a good README
+- How to use commits properly
 
-## 🎯 Goal
-- Learn every day
-- Practice on GitHub
-[GitHub](https://github.com)
+## 🎯 Goals
+- Learn GitHub well
+- Improve my programming skills
+- Build small projects in the future
