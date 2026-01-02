@@ -8,6 +8,8 @@ I'm interested in web development, AI, and creative digital projects.
 - Git & GitHub
 - AI Tools
 - Digital Design
+- GitHub basics
+
 
 ## 📂 Projects
 - 🔹 Personal Portfolio (this repository)
